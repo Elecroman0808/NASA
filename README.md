@@ -1,9 +1,8 @@
  
 
 
-> Open this page at [https://elecroman0808.github.io/nasa/](https://elecroman0808.github.io/nasa/)
 
-## Use as Extension
+## This Project has been made to Nasa Space Apps 2021
 
 This repository can be added as an **extension** in MakeCode.
 
